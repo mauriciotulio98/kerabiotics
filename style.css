@@ -27,6 +27,19 @@ header {
 header .logo img {
     max-height: 50px;
 }
+/my-website
+    /images
+        logo.png
+        product-image.jpg
+        icon-strength.png
+        icon-shine.png
+        icon-scalp.png
+        maria-silva.jpg
+        lucas-souza.jpg
+    index.html
+    style.css
+    script.js
+
 
 nav ul {
     list-style: none;
